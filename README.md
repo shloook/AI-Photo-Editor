@@ -1,4 +1,4 @@
-<h1 align="center">🌟 𝓐𝓘 𝓟𝓱𝓸𝓽𝓸 𝓔𝓭𝓲𝓽𝓸𝓻</h1>
+<h1 align="center"> ▀▄▀▄▀▄ ᗩI ᑭᕼOTO EᗪITOᖇ ▄▀▄▀▄▀</h1>
 
 
 <p align="center">
