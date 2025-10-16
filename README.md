@@ -51,7 +51,8 @@ Perfect for photographers, creators, and developers who want *AI-level editing p
 
 | Before | After |
 |:--:|:--:|
-| ![Before](https://raw.githubusercontent.com/mdn/beginner-html-site/gh-pages/images/firefox-icon.png) | <img width="256" height="256" alt="FirefoxPortableNightly_128" src="https://github.com/user-attachments/assets/4d16b026-376d-48ab-ac53-bf2fdbb66518" /> |
+<p align="center">| <img width="256" height="256" alt="unnamed" src="https://github.com/user-attachments/assets/d8fd115b-6fbd-4e9c-94c6-763f27c82c6a" />
+        | <img width="270" height="270" alt="FirefoxPortableNightly_128" src="https://github.com/user-attachments/assets/4d16b026-376d-48ab-ac53-bf2fdbb66518" /> | </p>
 
 
 🎥 **Demo Animation:**  
