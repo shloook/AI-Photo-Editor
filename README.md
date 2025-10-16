@@ -1,7 +1,8 @@
-# 🌟 AI Photo Editor
+<h1 align="center">🌟 𝓐𝓘 𝓟𝓱𝓸𝓽𝓸 𝓔𝓭𝓲𝓽𝓸𝓻</h1>
+
 
 <p align="center">
-  <img width="1083" height="999" alt="hero_banner" src="https://github.com/user-attachments/assets/d9c12b41-e19e-4d0d-a12d-ae9a1b0b40f1" />
+  <img width="600" height="550" alt="hero_banner" src="https://github.com/user-attachments/assets/d9c12b41-e19e-4d0d-a12d-ae9a1b0b40f1" />
 
 </p>
 
