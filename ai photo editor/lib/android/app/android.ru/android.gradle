@@ -1,0 +1,6 @@
+dependencies {
+    // ... other dependencies
+    implementation 'org.tensorflow:tensorflow-lite:2.14.0' // Or your preferred version
+    // For GPU delegate (if supported by your model and device)
+    // implementation 'org.tensorflow:tensorflow-lite-gpu:2.14.0'
+}

@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.4 # For picking images
+  path_provider: ^2.1.1 # For temporary file storage
+  # Add tflite_flutter if you want to run TFLite directly in Dart (less common for complex image tasks)
+  # tflite_flutter: ^0.10.1
